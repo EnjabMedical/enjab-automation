@@ -1,0 +1,20 @@
+{
+  "name": "@enjab/hms-client",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "login": "tsx --env-file=../../.env src/login.ts",
+    "bills": "tsx --env-file=../../.env src/list-bills.ts",
+    "trigger-eval": "tsx --env-file=../../.env src/trigger-eval.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "tough-cookie": "^5.0.0",
+    "undici": "^6.21.0"
+  }
+}

@@ -1,0 +1,43 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img [ref=e5]
+    - text: Hospital Management System
+  - table [ref=e7]:
+    - rowgroup [ref=e8]:
+      - row "LOGIN Hospital enjab User Name Password  Login" [ref=e9]:
+        - cell [ref=e10]:
+          - img [ref=e12]
+        - cell "LOGIN Hospital enjab User Name Password  Login" [ref=e13]:
+          - table [ref=e14]:
+            - rowgroup [ref=e15]:
+              - row "LOGIN" [ref=e16]:
+                - cell "LOGIN" [ref=e17]
+              - row "Hospital enjab" [ref=e18]:
+                - cell "Hospital enjab" [ref=e19]:
+                  - generic [ref=e20]:
+                    - generic [ref=e21] [cursor=pointer]: Hospital
+                    - textbox "Hospital" [ref=e22]: enjab
+              - row "User Name" [ref=e23]:
+                - cell "User Name" [ref=e24]:
+                  - generic [ref=e25]:
+                    - generic [ref=e26] [cursor=pointer]: User Name
+                    - textbox "User Name" [ref=e27]
+              - row "Password " [ref=e28]:
+                - cell "Password " [ref=e29]:
+                  - generic [ref=e30]:
+                    - generic [ref=e31] [cursor=pointer]: Password
+                    - textbox "Password" [ref=e32]
+                    - generic [ref=e33] [cursor=pointer]: 
+              - row [ref=e34]:
+                - cell [ref=e35]
+              - row "Login" [ref=e36]:
+                - cell "Login" [ref=e37]:
+                  - button "Login" [ref=e39] [cursor=pointer]
+  - generic [ref=e40]:
+    - link "Visit the web site (opens in a new window)" [ref=e42] [cursor=pointer]:
+      - /url: https://www.practo.com/providers
+      - img [ref=e43]
+    - generic [ref=e44]:
+      - link "Insta by Practo." [ref=e45] [cursor=pointer]:
+        - /url: http://www.instahealthsolutions.com/
+      - text: Version 12.4.21-12269. Copyright © 2026 Practo Technologies Pvt. Ltd. All Rights Reserved.

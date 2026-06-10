@@ -1,0 +1,8 @@
+- generic [ref=e3]:
+  - generic [ref=e6]:
+    - heading "This site can’t be reached" [level=1] [ref=e7]
+    - paragraph [ref=e8]:
+      - strong [ref=e9]: http://192.168.1.220/instahms/billing/opflow/index.htm#/filter/1/patient/ENJ056841/billing/billNo/BL118311?retain_route_params=true
+      - text: is unreachable.
+    - generic [ref=e10]: ERR_ADDRESS_UNREACHABLE
+  - button "Reload" [ref=e13] [cursor=pointer]

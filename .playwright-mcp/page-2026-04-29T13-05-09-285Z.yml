@@ -1,0 +1,543 @@
+- generic [ref=e1]:
+  - iframe [ref=e2]:
+    
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - 'row "Home Settings Notifications Help User Hide Patients List Add New Patient Filter: ENJ056841 clear PATIENTS (1) grid RN Mrs. Rozan Nayif Aref Naffa ENJ056841 • Female • 18-08-1996 • 29Y • +971585808996 Edit Patient Details Edit Communication Settings Appointments Registration Billing Triage / Nurse Assessment Initial Assessment Consultation Order Billing Open Bills Closed/Finalized/Cancelled Bills Audit Log Save" [ref=e5]':
+        - 'cell "Home Settings Notifications Help User Hide Patients List Add New Patient Filter: ENJ056841 clear PATIENTS (1) grid RN Mrs. Rozan Nayif Aref Naffa ENJ056841 • Female • 18-08-1996 • 29Y • +971585808996 Edit Patient Details Edit Communication Settings Appointments Registration Billing Triage / Nurse Assessment Initial Assessment Consultation Order Billing Open Bills Closed/Finalized/Cancelled Bills Audit Log Save" [ref=e6]':
+          - table [ref=e7]:
+            - rowgroup [ref=e8]:
+              - 'row "Home Settings Notifications Help User Hide Patients List Add New Patient Filter: ENJ056841 clear PATIENTS (1) grid RN Mrs. Rozan Nayif Aref Naffa ENJ056841 • Female • 18-08-1996 • 29Y • +971585808996 Edit Patient Details Edit Communication Settings Appointments Registration Billing Triage / Nurse Assessment Initial Assessment Consultation Order Billing Open Bills Closed/Finalized/Cancelled Bills Audit Log Save" [ref=e9]':
+                - 'cell "Home Settings Notifications Help User Hide Patients List Add New Patient Filter: ENJ056841 clear PATIENTS (1) grid RN Mrs. Rozan Nayif Aref Naffa ENJ056841 • Female • 18-08-1996 • 29Y • +971585808996 Edit Patient Details Edit Communication Settings Appointments Registration Billing Triage / Nurse Assessment Initial Assessment Consultation Order Billing Open Bills Closed/Finalized/Cancelled Bills Audit Log Save" [ref=e10]':
+                  - generic [ref=e12]:
+                    - generic [ref=e15]:
+                      - button [ref=e18]:
+                        - img [ref=e19]
+                      - generic [ref=e21]:
+                        - link "Home" [ref=e25] [cursor=pointer]:
+                          - /url: /instahms/home.do
+                          - button [ref=e26]:
+                            - img [ref=e27]
+                          - generic [ref=e29]: Home
+                        - link "Settings" [ref=e33] [cursor=pointer]:
+                          - /url: /instahms/index/applicationsettings.htm#/applicationsettings
+                          - button [ref=e34]:
+                            - img [ref=e35]
+                          - generic [ref=e37]: Settings
+                        - generic:
+                          - generic:
+                            - button:
+                              - img
+                          - generic: Notifications
+                        - generic [ref=e39]:
+                          - button [ref=e41]:
+                            - img [ref=e42]
+                          - generic [ref=e44]: Help
+                        - generic [ref=e45]:
+                          - button [ref=e47]:
+                            - img [ref=e48]
+                          - generic [ref=e50]: User
+                    - generic [ref=e52]:
+                      - generic [ref=e53]:
+                        - generic [ref=e54] [cursor=pointer]:
+                          - button "Hide" [ref=e56]
+                          - button [ref=e58]:
+                            - img [ref=e59]
+                        - generic [ref=e61]:
+                          - generic [ref=e62]:
+                            - button "Patients List" [ref=e64]
+                            - link "Add New Patient" [ref=e66] [cursor=pointer]:
+                              - /url: "#/filter/1/patient/new/registration?retain_route_params=true"
+                          - list [ref=e69]:
+                            - listitem [ref=e70]:
+                              - button "Filter:" [ref=e71]
+                            - listitem [ref=e72]:
+                              - listbox [ref=e73] [cursor=pointer]:
+                                - button "Today's OP Patients" [ref=e74]
+                                - button [ref=e75]:
+                                  - img [ref=e76]
+                          - generic [ref=e81]:
+                            - textbox "Name, phone or MR no." [ref=e82]: ENJ056841
+                            - generic [ref=e83] [cursor=pointer]: clear
+                          - button "PATIENTS (1)" [ref=e89]
+                          - grid "grid" [ref=e92]:
+                            - rowgroup [ref=e93]:
+                              - generic [ref=e97] [cursor=pointer]:
+                                - generic [ref=e98]:
+                                  - button "Mrs. Rozan Nayif Aref Naffa" [ref=e100]
+                                  - button "F/29Y" [ref=e102]
+                                - button "Visit at 16:51,Dr. Ashraf Moawad" [ref=e105]
+                              - button "No more patients to load" [ref=e110]
+                      - generic [ref=e111]:
+                        - generic [ref=e113]:
+                          - generic [ref=e117]: RN
+                          - generic [ref=e118]:
+                            - generic [ref=e119]:
+                              - button "Mrs. Rozan Nayif Aref Naffa" [ref=e120]
+                              - button "ENJ056841" [ref=e121]:
+                                - generic [ref=e122]: ENJ056841
+                              - button "•" [ref=e123]
+                              - button "Female" [ref=e124]
+                              - button "•" [ref=e125]
+                              - button "18-08-1996" [ref=e126]
+                              - button "•" [ref=e127]
+                              - button "29Y" [ref=e128]
+                              - button "•" [ref=e129]
+                              - button "+971585808996" [ref=e130]
+                              - button "Edit Patient Details" [ref=e131] [cursor=pointer]
+                              - button "Edit Communication Settings" [ref=e132] [cursor=pointer]
+                            - generic [ref=e135]:
+                              - generic "Appointments" [ref=e136]
+                              - generic "Registration" [ref=e137]
+                              - generic [ref=e138]: Billing
+                              - generic "Triage / Nurse Assessment" [ref=e139]
+                              - generic "Initial Assessment" [ref=e140]
+                              - generic "Consultation" [ref=e141]
+                              - generic "Order" [ref=e142]
+                        - generic [ref=e144]:
+                          - button "Billing" [ref=e146]
+                          - generic [ref=e148]:
+                            - generic [ref=e150]:
+                              - button "Open Bills" [ref=e151]
+                              - listbox [ref=e152] [cursor=pointer]:
+                                - alert [ref=e153]: BL118311
+                                - button [ref=e154]:
+                                  - img [ref=e155]
+                            - generic [ref=e159]:
+                              - button "Closed/Finalized/Cancelled Bills" [ref=e160]
+                              - listbox [ref=e161] [cursor=pointer]:
+                                - alert [ref=e162]: "--select--"
+                                - button [ref=e163]:
+                                  - img [ref=e164]
+                        - iframe [active] [ref=e172]:
+                          - generic [ref=f9e1]:
+                            - iframe [ref=f9e2]:
+                              
+                            - table [ref=f9e3]:
+                              - rowgroup [ref=f9e4]:
+                                - 'row "Bill Details Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled: Date Ord# Head Code Description Details Rate Qty Disc Amt Tax 29-04-2026 195854 OP Consultation 11 Dr. Ashraf Moawad 500.00 1 0.00 500.00 0.00 Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off: Add New Item Totals Payments Insurance Bill Print Bill Print Settings Print Email Download Cancelled" [ref=f9e5]':
+                                  - 'cell "Bill Details Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled: Date Ord# Head Code Description Details Rate Qty Disc Amt Tax 29-04-2026 195854 OP Consultation 11 Dr. Ashraf Moawad 500.00 1 0.00 500.00 0.00 Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off: Add New Item Totals Payments Insurance Bill Print Bill Print Settings Print Email Download Cancelled" [ref=f9e6]':
+                                    - table [ref=f9e7]:
+                                      - rowgroup [ref=f9e8]:
+                                        - 'row "Bill Details Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled: Date Ord# Head Code Description Details Rate Qty Disc Amt Tax 29-04-2026 195854 OP Consultation 11 Dr. Ashraf Moawad 500.00 1 0.00 500.00 0.00 Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off: Add New Item Totals Payments Insurance Bill Print Bill Print Settings Print Email Download Cancelled" [ref=f9e9]':
+                                          - 'cell "Bill Details Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled: Date Ord# Head Code Description Details Rate Qty Disc Amt Tax 29-04-2026 195854 OP Consultation 11 Dr. Ashraf Moawad 500.00 1 0.00 500.00 0.00 Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off: Add New Item Totals Payments Insurance Bill Print Bill Print Settings Print Email Download Cancelled" [ref=f9e10]':
+                                            - generic [ref=f9e11]:
+                                              - group [ref=f9e13]:
+                                                - link "Edit Patient Details" [ref=f9e15] [cursor=pointer]:
+                                                  - /url: javascript:Edit
+                                                  - img [ref=f9e16]
+                                                - table [ref=f9e17]:
+                                                  - rowgroup [ref=f9e18]:
+                                                    - 'row "Visit No: OP110997 Dept: Gynecology And Obstetrics Doctor: Dr. Ashraf Moawad" [ref=f9e19]':
+                                                      - cell "Visit No:" [ref=f9e20]
+                                                      - cell "OP110997" [ref=f9e21]:
+                                                        - generic "OP110997" [ref=f9e22]
+                                                      - cell "Dept:" [ref=f9e23]
+                                                      - cell "Gynecology And Obstetrics" [ref=f9e24]:
+                                                        - generic "Gynecology And Obstetrics" [ref=f9e25]
+                                                      - cell "Doctor:" [ref=f9e26]
+                                                      - cell "Dr. Ashraf Moawad" [ref=f9e27]:
+                                                        - generic "Dr. Ashraf Moawad" [ref=f9e28]
+                                                    - 'row "Reg Date: 29-04-2026 16:51 Referred By:" [ref=f9e29]':
+                                                      - cell "Reg Date:" [ref=f9e30]
+                                                      - cell "29-04-2026 16:51" [ref=f9e31]:
+                                                        - generic "29-04-2026 16:51" [ref=f9e32]
+                                                      - cell "Referred By:" [ref=f9e33]
+                                                      - cell [ref=f9e34]
+                                                    - 'row "Rate Plan: GENERAL" [ref=f9e35]':
+                                                      - cell "Rate Plan:" [ref=f9e36]
+                                                      - cell "GENERAL" [ref=f9e37]:
+                                                        - generic "GENERAL" [ref=f9e38]
+                                                    - 'row "National... : Jordan" [ref=f9e39]':
+                                                      - cell "National... :" [ref=f9e40]
+                                                      - cell "Jordan" [ref=f9e41]:
+                                                        - generic "Jordan" [ref=f9e42]
+                                                    - row [ref=f9e43]:
+                                                      - cell [ref=f9e44]
+                                              - generic [ref=f9e45]:
+                                                - group "Bill Details" [ref=f9e46]:
+                                                  - generic [ref=f9e47]: Bill Details
+                                                  - table [ref=f9e48]:
+                                                    - rowgroup [ref=f9e49]:
+                                                      - 'row "Bill No (Type): BL118311 (Bill Later) Open Date (By): 29-04-2026 16:51 (olanabil) Billing Bed Type: GENERAL" [ref=f9e50]':
+                                                        - cell "Bill No (Type):" [ref=f9e51]
+                                                        - cell "BL118311 (Bill Later)" [ref=f9e52]
+                                                        - cell "Open Date (By):" [ref=f9e53]
+                                                        - cell "29-04-2026 16:51 (olanabil)" [ref=f9e54]:
+                                                          - textbox "Date is mandatory." [ref=f9e55]: 29-04-2026
+                                                          - img [ref=f9e56]
+                                                          - textbox [ref=f9e57]: 16:51
+                                                          - text: (olanabil)
+                                                        - cell "Billing Bed Type:" [ref=f9e58]
+                                                        - cell "GENERAL" [ref=f9e59]
+                                                      - 'row "Bill Status: Open Payment Status: Unpaid Discharge" [ref=f9e60]':
+                                                        - cell "Bill Status:" [ref=f9e61]
+                                                        - cell "Open" [ref=f9e62]:
+                                                          - combobox [ref=f9e63]:
+                                                            - option "Open" [selected]
+                                                            - option "Finalized"
+                                                            - option "Closed"
+                                                            - option "Cancelled"
+                                                        - cell "Payment Status:" [ref=f9e64]
+                                                        - cell "Unpaid" [ref=f9e65]:
+                                                          - combobox [ref=f9e66]:
+                                                            - option "Unpaid" [selected]
+                                                            - option "Paid"
+                                                        - cell "Discharge" [ref=f9e67]:
+                                                          - checkbox [ref=f9e68]
+                                                          - text: Discharge
+                                                        - cell [ref=f9e69]:
+                                                          - textbox "Date is mandatory." [disabled] [ref=f9e70]
+                                                          - img [ref=f9e71]
+                                                          - textbox [disabled] [ref=f9e72]
+                                                      - 'row "Label: --Select-- Remarks: Finalized Date:" [ref=f9e73]':
+                                                        - cell "Label:" [ref=f9e74]
+                                                        - cell "--Select--" [ref=f9e75]:
+                                                          - combobox [ref=f9e76]:
+                                                            - option "--Select--" [selected]
+                                                            - option "Pending Approval"
+                                                            - option "OK for billing"
+                                                        - cell "Remarks:" [ref=f9e77]
+                                                        - cell [ref=f9e78]:
+                                                          - textbox [ref=f9e79]
+                                                        - cell "Finalized Date:" [ref=f9e80]
+                                                        - cell [ref=f9e81]:
+                                                          - textbox "Date is mandatory." [ref=f9e82]
+                                                          - img [ref=f9e83]
+                                                          - textbox [ref=f9e84]
+                                                      - 'row "Cancel Reason: Reopen Reason: Discounts Auth:" [ref=f9e85]':
+                                                        - cell "Cancel Reason:" [ref=f9e86]
+                                                        - cell [ref=f9e87]:
+                                                          - textbox [ref=f9e88]
+                                                        - cell "Reopen Reason:" [ref=f9e89]
+                                                        - cell [ref=f9e90]:
+                                                          - textbox [ref=f9e91]
+                                                        - cell "Discounts Auth:" [ref=f9e92]
+                                                        - cell [ref=f9e93]
+                                                      - 'row "Patient Writeoff Remarks: Sponsor Writeoff Remarks: Discount Plan:" [ref=f9e94]':
+                                                        - cell "Patient Writeoff Remarks:" [ref=f9e95]
+                                                        - cell [ref=f9e96]:
+                                                          - textbox [ref=f9e97]
+                                                        - cell "Sponsor Writeoff Remarks:" [ref=f9e98]
+                                                        - cell [ref=f9e99]:
+                                                          - textbox [ref=f9e100]
+                                                        - cell "Discount Plan:" [ref=f9e101]
+                                                        - cell [ref=f9e102]
+                                                      - row "Prior Authorization Date:" [ref=f9e103]:
+                                                        - cell "Prior Authorization Date:" [ref=f9e104]
+                                                        - cell [ref=f9e105]:
+                                                          - textbox "Date is mandatory." [ref=f9e106]
+                                                          - img [ref=f9e107]
+                                                      - row
+                                                - table [ref=f9e108]:
+                                                  - rowgroup [ref=f9e109]:
+                                                    - 'row "Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled:" [ref=f9e110]':
+                                                      - 'cell "Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled:" [ref=f9e111]':
+                                                        - table [ref=f9e112]:
+                                                          - rowgroup [ref=f9e113]:
+                                                            - 'row "Filter Service Groups: (All) Filter Charge Heads: (All) Hide Cancelled:" [ref=f9e114]':
+                                                              - cell "Filter Service Groups:" [ref=f9e115]
+                                                              - cell "(All)" [ref=f9e116]:
+                                                                - combobox [ref=f9e117]:
+                                                                  - option "(All)" [selected]
+                                                                  - option "Direct Charge"
+                                                                  - option "Dental Services"
+                                                                  - option "Bed"
+                                                                  - option "ICU"
+                                                                  - option "Doctor"
+                                                                  - option "Laboratory"
+                                                                  - option "Radiology"
+                                                                  - option "Operation"
+                                                                  - option "PROCEDURE"
+                                                                  - option "Equipment"
+                                                                  - option "Meal"
+                                                                  - option "Other Charge"
+                                                                  - option "Package"
+                                                                  - option "Pharmacy Bill"
+                                                                  - option "Inventory item"
+                                                                  - option "Pharmacy item"
+                                                                  - option "General Services"
+                                                                  - option "Surgical Procedures"
+                                                                  - option "Lab Test (Mena)"
+                                                                  - option "Ext. Surgery"
+                                                                  - option "GENERAL - PHARMA"
+                                                                  - option "Others"
+                                                              - cell "Filter Charge Heads:" [ref=f9e118]
+                                                              - cell "(All)" [ref=f9e119]:
+                                                                - combobox [ref=f9e120]:
+                                                                  - option "(All)" [selected]
+                                                                  - option "General Registration"
+                                                                  - option "Admission Charge"
+                                                                  - option "OP Visit Registration"
+                                                                  - option "EMR Charge"
+                                                                  - option "MLC Charge"
+                                                                  - option "OP Consultation"
+                                                                  - option "OP Revisit Consultation"
+                                                                  - option "IP Doctor Visit"
+                                                                  - option "Bed Charge"
+                                                                  - option "Nurse Charge"
+                                                                  - option "Duty Doctor Charge"
+                                                                  - option "Professional Charge"
+                                                                  - option "Bed Charge (ICU)"
+                                                                  - option "Nurse Charge (ICU)"
+                                                                  - option "Duty Doctor Charge (ICU)"
+                                                                  - option "Professional Charge (ICU)"
+                                                                  - option "Lab Tests"
+                                                                  - option "Radiology Tests"
+                                                                  - option "Additional Theatre Charge"
+                                                                  - option "Surgeon/Doctor"
+                                                                  - option "Theater Charge"
+                                                                  - option "Anesthetist"
+                                                                  - option "Consumables"
+                                                                  - option "Equipment"
+                                                                  - option "Surgical Assistance"
+                                                                  - option "Asst. Surgeon / Doctor"
+                                                                  - option "Asst. Anesthetist"
+                                                                  - option "Co-op Surgeon/Doctor"
+                                                                  - option "Service"
+                                                                  - option "Pharmacy Medicine"
+                                                                  - option "Package Charges"
+                                                                  - option "Equipment"
+                                                                  - option "Other charge"
+                                                                  - option "Consumables"
+                                                                  - option "Miscellaneous"
+                                                                  - option "Implant Charge"
+                                                                  - option "Medicine"
+                                                                  - option "Pharmacy Sales"
+                                                                  - option "Consumables"
+                                                                  - option "Luxury Tax"
+                                                                  - option "Service Tax"
+                                                                  - option "Claim Service Tax"
+                                                                  - option "Service Charge"
+                                                                  - option "Bill Discounts"
+                                                                  - option "Round Off"
+                                                                  - option "Pharmacy Sales Returns"
+                                                                  - option "Inventory Item"
+                                                                  - option "Inventory Returns"
+                                                                  - option "Pharmacy Returns"
+                                                                  - option "Dietary charges"
+                                                                  - option "Package Margin"
+                                                                  - option "DRG Base Margin"
+                                                                  - option "DRG Outlier Payment"
+                                                                  - option "DRG Base Payment"
+                                                                  - option "DRG Adjustment"
+                                                                  - option "DRG Add On Payment"
+                                                                  - option "Per Diem Margin"
+                                                                  - option "Sponsor Adjustment"
+                                                                  - option "Anesthesia type Charge"
+                                                                  - option "Bystander Bed Charges"
+                                                              - cell "Hide Cancelled:" [ref=f9e121]
+                                                              - cell [ref=f9e122]:
+                                                                - checkbox [checked] [ref=f9e123]
+                                                      - cell [ref=f9e124]:
+                                                        - table:
+                                                          - rowgroup:
+                                                            - row
+                                                - generic [ref=f9e125]:
+                                                  - table [ref=f9e126]:
+                                                    - rowgroup [ref=f9e127]:
+                                                      - row "Date Ord# Head Code Description Details Rate Qty Disc Amt Tax" [ref=f9e128]:
+                                                        - columnheader [ref=f9e129] [cursor=pointer]:
+                                                          - checkbox [ref=f9e130]
+                                                        - columnheader "Date" [ref=f9e131] [cursor=pointer]
+                                                        - columnheader "Ord#" [ref=f9e132] [cursor=pointer]
+                                                        - columnheader "Head" [ref=f9e133] [cursor=pointer]
+                                                        - columnheader "Code" [ref=f9e134] [cursor=pointer]
+                                                        - columnheader "Description" [ref=f9e135] [cursor=pointer]
+                                                        - columnheader "Details" [ref=f9e136] [cursor=pointer]
+                                                        - columnheader "Rate" [ref=f9e137] [cursor=pointer]
+                                                        - columnheader "Qty" [ref=f9e138] [cursor=pointer]
+                                                        - columnheader [ref=f9e139] [cursor=pointer]
+                                                        - columnheader "Disc" [ref=f9e140] [cursor=pointer]
+                                                        - columnheader "Amt" [ref=f9e141] [cursor=pointer]
+                                                        - columnheader "Tax" [ref=f9e142] [cursor=pointer]
+                                                        - columnheader [ref=f9e143] [cursor=pointer]
+                                                        - columnheader [ref=f9e144] [cursor=pointer]
+                                                      - row "29-04-2026 195854 OP Consultation 11 Dr. Ashraf Moawad 500.00 1 0.00 500.00 0.00" [ref=f9e145]:
+                                                        - cell [ref=f9e146]:
+                                                          - checkbox [ref=f9e147]
+                                                        - cell "29-04-2026" [ref=f9e148]:
+                                                          - img [ref=f9e149]
+                                                          - text: 29-04-2026
+                                                        - cell "195854" [ref=f9e150]
+                                                        - cell "OP Consultation" [ref=f9e151]
+                                                        - cell "11" [ref=f9e152]
+                                                        - cell "Dr. Ashraf Moawad" [ref=f9e153]:
+                                                          - generic "Dr. Ashraf Moawad" [ref=f9e154]
+                                                        - cell [ref=f9e155]
+                                                        - cell "500.00" [ref=f9e156]
+                                                        - cell "1" [ref=f9e157]
+                                                        - cell [ref=f9e158]
+                                                        - cell "0.00" [ref=f9e159]
+                                                        - cell "500.00" [ref=f9e160]
+                                                        - cell "0.00" [ref=f9e161]
+                                                        - cell [ref=f9e162]:
+                                                          - img [ref=f9e163] [cursor=pointer]
+                                                        - cell [ref=f9e164]:
+                                                          - link "Edit Item Details" [ref=f9e165] [cursor=pointer]:
+                                                            - /url: javascript:Edit
+                                                            - img [ref=f9e166]
+                                                  - table [ref=f9e167]:
+                                                    - rowgroup [ref=f9e168]:
+                                                      - 'row "Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off: Add New Item" [ref=f9e169]':
+                                                        - 'cell "Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off:" [ref=f9e170]':
+                                                          - table [ref=f9e171]:
+                                                            - rowgroup [ref=f9e172]:
+                                                              - 'row "Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill. Disc. on selected items: 0 % Disc. Auth: --Select-- Apply Add Round Off:" [ref=f9e173]':
+                                                                - 'cell "Discount Plan: --Select-- Discount Plan Is Applicable Only After Attaching It To The Bill." [ref=f9e174]':
+                                                                  - text: "Discount Plan:"
+                                                                  - combobox [ref=f9e175]:
+                                                                    - option "--Select--" [selected]
+                                                                  - img "Discount Plan Is Applicable Only After Attaching It To The Bill." [ref=f9e176] [cursor=pointer]
+                                                                - 'cell "Disc. on selected items: 0 %" [ref=f9e177]':
+                                                                  - text: "Disc. on selected items:"
+                                                                  - textbox [ref=f9e178]: "0"
+                                                                  - text: "%"
+                                                                - cell "Disc. Auth:" [ref=f9e179]
+                                                                - cell "--Select--" [ref=f9e180]:
+                                                                  - combobox [ref=f9e181]:
+                                                                    - option "--Select--" [selected]
+                                                                    - option "Rate Plan Discount"
+                                                                    - option "Dr. Ola"
+                                                                    - option "Discount by Doctor"
+                                                                - cell "Apply Add" [ref=f9e182]:
+                                                                  - button "Apply" [ref=f9e183] [cursor=pointer]
+                                                                  - button "Add" [ref=f9e184] [cursor=pointer]
+                                                                - cell "Round Off:" [ref=f9e185]:
+                                                                  - text: "Round Off:"
+                                                                  - checkbox [ref=f9e186]
+                                                        - cell "Add New Item" [ref=f9e187]:
+                                                          - button "Add New Item" [active] [ref=f9e188] [cursor=pointer]:
+                                                            - img [ref=f9e189]
+                                                - group "Totals" [ref=f9e190]:
+                                                  - generic [ref=f9e191]: Totals
+                                                  - table [ref=f9e192]:
+                                                    - rowgroup [ref=f9e193]:
+                                                      - 'row "Billed Amount: 500.00 Discounts: 0.00 Tax Amount: 0.00 Net Amount: 500.00" [ref=f9e194]':
+                                                        - cell [ref=f9e195]
+                                                        - 'cell "Billed Amount: 500.00" [ref=f9e198]':
+                                                          - generic [ref=f9e199]: "Billed Amount:"
+                                                          - generic [ref=f9e200]: "500.00"
+                                                        - 'cell "Discounts: 0.00" [ref=f9e201]':
+                                                          - generic [ref=f9e202]: "Discounts:"
+                                                          - generic [ref=f9e203]: "0.00"
+                                                        - 'cell "Tax Amount: 0.00" [ref=f9e204]':
+                                                          - generic [ref=f9e205]: "Tax Amount:"
+                                                          - generic [ref=f9e206]: "0.00"
+                                                        - 'cell "Net Amount: 500.00" [ref=f9e207]':
+                                                          - generic [ref=f9e208]: "Net Amount:"
+                                                          - generic [ref=f9e209]: "500.00"
+                                                      - 'row "Total Deposit: 0.00 Patient Amount: 500.00 Patient Tax: 0.00 Patient Payments: 0.00 Patient Due: 500.00" [ref=f9e210]':
+                                                        - 'cell "Total Deposit: 0.00" [ref=f9e211]':
+                                                          - generic [ref=f9e212]: "Total Deposit:"
+                                                          - generic [ref=f9e213]: "0.00"
+                                                        - 'cell "Patient Amount: 500.00" [ref=f9e214]':
+                                                          - generic [ref=f9e215]: "Patient Amount:"
+                                                          - generic [ref=f9e216]: "500.00"
+                                                        - 'cell "Patient Tax: 0.00" [ref=f9e217]':
+                                                          - generic [ref=f9e218]: "Patient Tax:"
+                                                          - generic [ref=f9e219]: "0.00"
+                                                        - 'cell "Patient Payments: 0.00" [ref=f9e220]':
+                                                          - link "Patient Payments:" [ref=f9e222] [cursor=pointer]:
+                                                            - /url: ReceiptList.do?_method=getReceipts&bill_no=BL118311&payment_type=R&payment_type=F&is_deposit=false
+                                                          - generic [ref=f9e223]: "0.00"
+                                                        - 'cell "Patient Due: 500.00" [ref=f9e224]':
+                                                          - generic [ref=f9e225]: "Patient Due:"
+                                                          - generic [ref=f9e226]: "500.00"
+                                                - term [ref=f9e228] [cursor=pointer]:
+                                                  - generic [ref=f9e229]: Payments
+                                                - table [ref=f9e230]:
+                                                  - rowgroup [ref=f9e231]:
+                                                    - row "Insurance Bill Print Bill Print Settings Print Email Download" [ref=f9e232]:
+                                                      - cell "Insurance Bill Print Bill Print Settings Print Email Download" [ref=f9e233]:
+                                                        - combobox [ref=f9e234]:
+                                                          - option "Web Based Bill Now Print Template"
+                                                          - option "Bill Center Print Template"
+                                                          - option "test"
+                                                          - option "Expense Statement - Built-in Text"
+                                                          - option "Built-in HTML template"
+                                                          - option "Bill Print with VAT"
+                                                          - option "Web Based Bill Later Print Template"
+                                                          - option "Expense Statement - Built-in HTML"
+                                                          - option "Bill_Center Centername"
+                                                          - option "Built-in Text template"
+                                                          - option "Insurance Bill Print" [selected]
+                                                        - combobox [ref=f9e235]:
+                                                          - option "Bill Print Settings" [selected]
+                                                          - option "Diagnostic Report Settings"
+                                                          - option "Insurance Template Settings"
+                                                          - option "Patient Document Printer Settings"
+                                                          - option "Pharmacy Print Settings"
+                                                          - option "Radiology Report Settings"
+                                                          - option "Store Print Settings"
+                                                        - button "Print" [ref=f9e236] [cursor=pointer]:
+                                                          - generic [ref=f9e237]: P
+                                                          - text: rint
+                                                        - button "Email" [ref=f9e238] [cursor=pointer]
+                                                        - button "Download" [disabled] [ref=f9e239]:
+                                                          - generic [ref=f9e240]: D
+                                                          - text: ownload
+                                                    - row
+                                                    - row
+                                                    - row
+                                              - generic:
+                                                - option "--Select--" [selected]
+                                                - option "Verbal"
+                                                - option "E-Mail"
+                                                - option "Fax"
+                                                - option "Electronic"
+                                              - generic:
+                                                - option "(All)" [selected]
+                                                - option "Bed"
+                                                - option "Dental Services"
+                                                - option "Direct Charge"
+                                                - option "Doctor"
+                                                - option "Equipment"
+                                                - option "Ext. Surgery"
+                                                - option "GENERAL - PHARMA"
+                                                - option "General Services"
+                                                - option "ICU"
+                                                - option "Inventory item"
+                                                - option "Laboratory"
+                                                - option "Lab Test (Mena)"
+                                                - option "Meal"
+                                                - option "Operation"
+                                                - option "Other Charge"
+                                                - option "Others"
+                                                - option "Package"
+                                                - option "Pharmacy Bill"
+                                                - option "Pharmacy item"
+                                                - option "PROCEDURE"
+                                                - option "Radiology"
+                                                - option "Surgical Procedures"
+                                                - option "(All)" [selected]
+                                                - option "-- Select --" [selected]
+                                                - option "Daily"
+                                                - option "Hourly"
+                                                - option "-- Select --" [selected]
+                                                - option "Verbal"
+                                                - option "E-Mail"
+                                                - option "Fax"
+                                                - option "Electronic"
+                                                - option "-- Select --" [selected]
+                                                - option "Verbal"
+                                                - option "E-Mail"
+                                                - option "Fax"
+                                                - option "Electronic"
+                                              - table [ref=f9e241]:
+                                                - rowgroup [ref=f9e242]:
+                                                  - row "Cancelled" [ref=f9e243]:
+                                                    - cell "Cancelled" [ref=f9e244]:
+                                                      - generic [ref=f9e245]:
+                                                        - img [ref=f9e247]
+                                                        - generic [ref=f9e248]: Cancelled
+                                        - row:
+                                          - cell
+                        - generic [ref=e174]:
+                          - generic [ref=e175]:
+                            - button "Audit Log" [ref=e176] [cursor=pointer]
+                            - listbox [ref=e177] [cursor=pointer]:
+                              - button "Other Actions" [ref=e178]
+                              - button [ref=e179]:
+                                - img [ref=e180]
+                          - button "Save" [ref=e183] [cursor=pointer]
